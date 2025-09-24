@@ -111,36 +111,28 @@ For Windows:
 
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/43b5ca22-f8aa-4066-a565-c9c041c58e16" />
 
-
-
 # .sh method
 
 ## PROGRAM
 #### Shell script to add two numbers:
+
 <img width="452" height="365" alt="image" src="https://github.com/user-attachments/assets/4b88ab5f-ab58-43a8-9b57-94a817e3dc4a" />
-
-
-
 
 ## EXPECTED OUTPUT
 
-
-
+<img width="317" height="374" alt="Screenshot 2025-09-24 152553" src="https://github.com/user-attachments/assets/bb60d9f7-2ab3-46fa-a6a4-2d60315d06ce" />
 
 ## CHMOD METHOD
 
-
-
+<img width="317" height="374" alt="Screenshot 2025-09-24 152553" src="https://github.com/user-attachments/assets/50f1235f-327a-46c4-9956-ec9e6ecd9bb7" />
 
 # TERMINAL METHOD
 
 <img width="331" height="386" alt="image" src="https://github.com/user-attachments/assets/edd30db8-c649-4600-b792-2d6de3a08382" />
 
-
-
 # .c METHOD
 
-
+<img width="278" height="302" alt="Screenshot 2025-09-24 153125" src="https://github.com/user-attachments/assets/b54ab054-9741-4b26-b075-eadd502cfeb8" />
 
 ## RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
